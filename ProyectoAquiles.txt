@@ -1,1 +1,1 @@
-Modificacion edgar
+Se eliminaron las lineas comentadas por Edgar y Aquiles y en su lugar se dejo esta como resolucion de conflicto.
